@@ -1,6 +1,6 @@
-# Add dependencies your project uses
+
 requests
 numpy
 
-# Optional: Add pylint if you want it to be project-specific
+
 pylint
